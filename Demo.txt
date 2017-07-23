@@ -3,3 +3,5 @@
 3.feature-qinyixuan
 4.其他人开发的功能
 5.qinyixuan加了一个功能
+6.又开发了一个功能
+7.修复了一个bug
