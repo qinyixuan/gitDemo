@@ -1,4 +1,5 @@
 1.This is develop
 2.other code
 3.feature-qinyixuan
-4.qinyixuan加了一个功能
+4.其他人开发的功能
+5.qinyixuan加了一个功能
